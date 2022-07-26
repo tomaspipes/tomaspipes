@@ -13,7 +13,7 @@
 </div>
 
 <details>
-  <summary align="center">☎️ Contact me</summary>
+  <summary align="center">Click here :innocent: </summary>
 <div>
   <samp>
     <h2 align="center">You can reach me by:</h2>
