@@ -1,13 +1,7 @@
 ### Hi there 👋
 
 
-<img width="140px" alt="migzao01 Github profile views" src="https://komarev.com/ghpvc/?username=migzao01" /> 
 
-
-[![Gmail Badge](https://img.shields.io/badge/-tiagomiguel.araujo2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagomiguel.araujo2001@gmail.com)](mailto:tiagomiguel.araujo2001@gmail.com) [![Facebook Badge]<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Tomas Pipé</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
-</div>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
