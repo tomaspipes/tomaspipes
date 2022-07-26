@@ -33,7 +33,7 @@
       <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+      <a href="https://twitter.com/tomaspipe01" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
@@ -47,18 +47,18 @@
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="github.com/tomaspipes" target="blank"><img align="center" 
      src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
      alt="spying counter" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="github.com/tomaspipes" target="blank"><img align="center" 
      src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
      alt="account age" /></a>
   </p>
   <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="github.com/tomaspipes" target="blank"><img align="center" 
      src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
      alt="updated" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="github.com/tomaspipes" target="blank"><img align="center" 
      src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
      alt="repos" /></a>
  </p>
