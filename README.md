@@ -2,7 +2,9 @@
   <h1>Hi there 👋 I'm Tomás</h1>
 </div>
 
+<div align="center">
 <img src="https://www.codewars.com/users/tomaspipes/badges/large" alt="tomaspipes Codewars Badge">
+</div>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
