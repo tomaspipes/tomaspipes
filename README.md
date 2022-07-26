@@ -2,7 +2,7 @@
   <h1>Hi there 👋 I'm Tomás</h1>
 </div>
 
-
+<img src="https://www.codewars.com/users/tomaspipes/badges/large" alt="tomaspipes Codewars Badge">
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -14,7 +14,7 @@
   <summary>☎️ Contact me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/tomasakapipe/" target="_blank"><img align="center"
