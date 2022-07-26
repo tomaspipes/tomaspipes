@@ -20,7 +20,7 @@
       <a href="https://www.linkedin.com/in/tomasakapipe/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https:https://www.facebook.com/tomaspipe01" target="_blank"><img align="center"
+      <a href="https://www.facebook.com/tomaspipe01" target="-blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://mailto:tomas.pintopereira2001@gmail.com" target="_blank"><img align="center"
