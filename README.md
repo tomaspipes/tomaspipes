@@ -5,38 +5,155 @@
 
 ## 💬 Let's connect
 
-[![Gmail Badge](https://img.shields.io/badge/-tiagomiguel.araujo2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagomiguel.araujo2001@gmail.com)](mailto:tiagomiguel.araujo2001@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Tiago_Araújo-blue?style=flat&logo=facebook&logoColor=white&link=https://[[https://www.facebook.com/profile.php?id=100005309748742](https://www.facebook.com/profile.php?id=100005309748742)](https://www.facebook.com/profile.php?id=100005309748742))](https://https://www.facebook.com/profile.php?id=100005309748742)  [![GitLab Badge](https://img.shields.io/badge/-Tiago_Araujo_[@migza0]-c14438?color=F4F4F5&style=flat&logo=gitlab&logoColor=black&link=https://gitlab.com/migza0)](https://gitlab.com/migza0) [![Instagram Badge](https://img.shields.io/badge/-@_tiago_araujo94-e4405f?style=flat-squar&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/tiago_araujo94/)](https://www.instagram.com/tiago_araujo94/)
+[![Gmail Badge](https://img.shields.io/badge/-tiagomiguel.araujo2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tiagomiguel.araujo2001@gmail.com)](mailto:tiagomiguel.araujo2001@gmail.com) [![Facebook Badge]<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
+</div>
 
-## 🧍 I'm a Web Developer student!
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-- 🔭 I'm currently finishing a Full-Stack Web Developer Bootcamp @ Academia de Código
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">😎 you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
 
-- 🌱 I’m currently learning everything
+<details>
+  <summary>🧮 about</summary>
+<div>
+<h2 align="center">🧮 About this Account</h2>
+ <p align="center">
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
+     alt="spying counter" /></a>
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
+     alt="account age" /></a>
+  </p>
+  <p align="center">
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
+     alt="updated" /></a>
+  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+     src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
+     alt="repos" /></a>
+ </p>
+</div>
+</details>
 
-- 💬 Ask me about anything. I will try to help you as much as I can.
+<details>
+  <summary>🌏 global</summary>
+<div>
+<h2 align="center"> Wanna learn more something about me? </h2>
+</div>
 
-- 🥅 2022 Goals: Start a career in Web Development
+```js
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,///////,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,//(((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((((((((((((((((((((((((((((((((((((((((((((('',,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((((((((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((((((((((((((((((((((((((((((((((((((((((((((((',,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((''''',,,,(((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/////(((((((/,,,/(((((((((((((((((///,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((//,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((((,,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((/,,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,((',,,,,,,,,,,,,,((((((((,,,,,,,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((,,,(((,,,,,,,,,,,,,,((((((((,,,,,,,,,,/(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,,,,,,,'(((((((((((,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,////((((((((((''',,,,,,,,,,,,,'(((/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,((',,(((,,,((((,'((((((((((((((((((',,,,,,,,,,,,,,,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((/,,((((/(((((((((((((((((((((/,,,,,',,/,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,,((((((((,(((((((((((((((((((',,,,,,(,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,'(',,(((,,,(((('(((,,,/(((((((((((((((((,,,,,'(,,/,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,(',,'((((((((,(((,,,((,,,,,,,(((,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,((,,(((((((((,((',,,((,,,,,,,',,,,/(((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,,((,,,((,,,((((((((,,(,,,,,((,,,,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,((((((((,(((,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((,((',,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,(((((((((',((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((((,,((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((,((,((,(((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,((((((((,((,,((,',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,((((((((((',,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((('((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((('((''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+```
+</details>
 
-- ⚡ Fun fact: I love playing Badminton, videogames && watching anim 
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
 
-## 💻 Languages and Tools:
+<details>
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <h2 align="center"> my current activity </h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
 
-| <img align="left" alt="Visual Studio Code" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> |    <img align="left" alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>    |      <img align="left" alt="CSS3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> | <img align="left" alt="JavaScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> | <img align="left" alt="TypeScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:
-| <img align="left" alt="Node.js" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> | <img align="left" alt="MySQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> |                      <img align="left" alt="Git" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/> |             <img align="left" alt="GitHub" width="100px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/> |
-
-
-
-## 📈 GitHub Stats
-
-[![Tiago's github stats](https://github-readme-stats.vercel.app/api?username=migzao01&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400&local=en&show_owner=true)](https://github.com/migzao01/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=migzao01&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migzao01&theme=tokyonight&langs_count=10&hide_border=true)](https://github.com/migzao01) 
-
-## 📌 Pinned repositories
-
-### 🐍 Watch my contribution graph being eaten by a Snake!
-
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
-
-
+------
+Credit: [1999azzar](https://github.com/1999azzar)
+Last Edited on: 01/06/2022
