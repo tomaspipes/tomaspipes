@@ -2,11 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&color=F7F7F7&center=true&vCenter=true&lines=Welcome+to+my+personal+GitHub;My+name+is+Tom%C3%A1s;And+I'm+a+Full+Stack+Developer;Have+fun+exploring!" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-<img src="https://www.codewars.com/users/tomaspipes/badges/large" alt="tomaspipes Codewars Badge">
-</div>
-
-
 <details>
   <summary align="center">Click here :innocent: </summary>
 <div>
