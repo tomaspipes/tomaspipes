@@ -60,5 +60,8 @@
   <a href="https://java.com" target ="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="[https://bazel.com](https://bazel.build/)" target ="_blank">
+    <img src="[https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg](https://upload.wikimedia.org/wikipedia/en/7/7d/Bazel_logo.svg)https://upload.wikimedia.org/wikipedia/en/7/7d/Bazel_logo.svg" alt="Bazel" width="40" height="40"/>
+  </a>
 </p>
 </details>
